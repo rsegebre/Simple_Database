@@ -29,10 +29,10 @@ You can also just check the applet in my website and try it out there: (make sur
 
 
 
-Develop testcases - done
-Generate documentation - done
-Fix variable names - done
-Check code coverage - done
+- Develop testcases - done
+- Generate documentation - done
+- Fix variable names - done
+- Check code coverage - done
 
 Good excercise on the basics and developing datastructures...
 
