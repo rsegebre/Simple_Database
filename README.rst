@@ -4,10 +4,35 @@ README:
 Simple Database:
 ================
 
+To use:
+=======
+
+You can import it as an eclipse project and run it from there, since that is 
+what I used to develop the code. 
+
+
+If you want to run in cmd, you have delete the package lines from all files and then run::
+
+	javac *.java 
+	java Input_Handler
+
+After this the code should be running and you can start typing in your commands.
+
+
+You can also just check the applet in my website and try it out there: (make sure you have the java plugin enabled)
+
+`rsegebre.com`_
+================
+
+
+.. _`rsegebre.com`: http://rsegebre.com/static/simple_database/appletloader.html
+
+
+
 Develop testcases - done
 Generate documentation - done
 Fix variable names - done
-Check code coverage - pending
+Check code coverage - done
 
 Good excercise on the basics and developing datastructures...
 
